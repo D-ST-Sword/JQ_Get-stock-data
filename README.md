@@ -1,5 +1,7 @@
 # JQ_Get-stock-data(基于聚宽平台的中国股票数据获取)
 
+   ### Since the official documents are very rich, but there are no examples of storage formatting, etc., some people with no programming background still have a disadvantage to get started, so I provide a demo to download and save stock data. //由于官方提供的文档非常丰富，但没有存储 格式化等实例，有些没有编程背景的人上手还是有点难度，所以我提供一个下载并保存股票数据的demo
+
     运行环境：
     python == 3.6
     
